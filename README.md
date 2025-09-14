@@ -7,6 +7,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=MIREXELLE&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MIREXELLE&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirexelle-vincent-piol-377b6a34b/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.mirexellevincentc.piol@gmail.com)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=MIREXELLE&icon=0&color=0)](https://visitcount.itsvg.in)
 
