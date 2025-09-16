@@ -4,7 +4,7 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+<img align="right" width=200px alt="Unicorn" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/>
 
 I am a **Information Technology** student, currently halfway through my course, I am expanding my knowledge in both back-end and front-end development. I have little to no experience, but I am eager to learn. My goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
 - 📚 I’m currently learning ...
