@@ -111,5 +111,3 @@ I am a **Information Technology** student, currently halfway through my course, 
 
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MIREXELLE&theme=dark)](https://git.io/streak-stats)
