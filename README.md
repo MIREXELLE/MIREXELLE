@@ -66,16 +66,9 @@ I am a **Information Technology** student, currently halfway through my course, 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Nothing yet to see here
 
 <img align="center" src= "https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width = "500">
-
-<table>
-  <tr>
-    <td width="50%">
-      
-  </tr>
-</table>
-<br>
 
 <!-- Github Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
@@ -109,6 +102,3 @@ I am a **Information Technology** student, currently halfway through my course, 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MIREXELLE&theme=dark)](https://git.io/streak-stats)
