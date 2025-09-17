@@ -67,6 +67,8 @@ I am a **Information Technology** student, currently halfway through my course, 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<img align="center" src= "https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width = "500">
+
 <table>
   <tr>
     <td width="50%">
@@ -99,7 +101,7 @@ I am a **Information Technology** student, currently halfway through my course, 
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/MIREXELLE/count.svg">
+    <img alt="visitors counter" src="https://komarev.com/ghpvc/?username=MIREXELLE&style=for-the-badge&color=blue">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 <br>
