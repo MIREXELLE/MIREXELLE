@@ -50,7 +50,8 @@ I am a **Information Technology** student, currently halfway through my course, 
 ###### Backend & Frameworks:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
-
+###### Database Management:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 <!-- #### ML/DL -->
 
 ###### Development Tools:
