@@ -82,14 +82,16 @@ Nothing yet to see here
 <p align="center">
 <table align="center">
 <tr>
-<td width="50%" align="center">
+<td width="49%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MIREXELLE&theme=nightowl&show_icons=true&count_private=true" />
     <img src="https://streak-stats.demolab.com/?user=MIREXELLE&theme=nightowl&hide_border=false" alt="MIREXELLE streak" />
 </td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MIREXELLE&theme=nightowl&hide_border=false&langs_count=10" width="120%" />
+<td width="120%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MIREXELLE&theme=nightowl&hide_border=false&langs_count=10" width="100%" />
     <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIREXELLE&theme=nightowl" alt="MIREXELLE github readme activity graph" width="120%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIREXELLE&theme=nightowl&hide_border=false&langs_count=10" alt="MIREXELLE github readme activity graph" width="100%" />
+</td>
+    
 </td>
 </tr>
 </table>
