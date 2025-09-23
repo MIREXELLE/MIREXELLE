@@ -87,9 +87,9 @@ Nothing yet to see here
     <img src="https://streak-stats.demolab.com/?user=MIREXELLE&theme=nightowl&hide_border=false" alt="MIREXELLE streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MIREXELLE&theme=nightowl&hide_border=false&langs_count=10" width="90%" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MIREXELLE&theme=nightowl&hide_border=false&langs_count=10" width="120%" />
     <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIREXELLE&theme=nightowl" alt="MIREXELLE github readme activity graph" width="90%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIREXELLE&theme=nightowl" alt="MIREXELLE github readme activity graph" width="120%" />
 </td>
 </tr>
 </table>
