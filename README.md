@@ -78,14 +78,14 @@ I am a **Information Technology** student, currently halfway through my course, 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIREXELLE&theme=nightowl&hide_border=false&radius=216" alt="MIREXELLE github readme activity graph" width="100%" />
 </td>
     
-</td>
+
 </tr>
 </table>
 <p>
 </p>
 <br>
 
-<img src="icons/Trophy.gif" width="40" style="position: relative; bottom: -14px; vertical-align: middle;">&nbsp;***Achievements***
+<img src="icons/Trophy.gif" width="40" style="position: relative; bottom: -22px; vertical-align: middle;">&nbsp;***Achievements***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <!-- Profile Trophies -->
