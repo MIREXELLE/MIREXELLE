@@ -85,7 +85,7 @@ I am a **Information Technology** student, currently halfway through my course, 
 </p>
 <br>
 
-<img src="https://raw.githubusercontent.com/MIREXELLE/MIREXELLE/blob/main/icons/Trophy.gif" width="35">&nbsp; ***Achievements***
+<img src="icons/Trophy.gif" width="40" style="middle; margin-bottom: -12px;">&nbsp;***Achievements***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <!-- Profile Trophies -->
