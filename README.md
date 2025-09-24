@@ -10,7 +10,7 @@ I am a **Information Technology** student, currently halfway through my course, 
 - 📚 I’m currently learning ...
     - *Java*
     - *Spring*
-- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
+- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎹 playing musical instruments.
 - 📫 Reach out to me at: <a href="m.mirexellevincentc.piol@gmail.com">m.mirexellevincentc.piol@gmail.com</a>
   <br>
 
